@@ -1,9 +1,9 @@
 const data = [
   {
-    keyword: "アーロンチェア",
+    keyword: "Douglas",
     maxPrice: 50000,
-    minPrice: 30000,
-    emailTo: "kserizawa081@gmail.com",
+    minPrice: 1,
+    emailTo: "auskyhue@gmail.com",
   },
 ];
 
